@@ -1,0 +1,6 @@
+// components/Header.module.css
+.header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+  }
